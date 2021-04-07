@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jahid1499
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning full stack web development
+- 👋 Hi, I’m @Jahid Hassan
+- 👀 I’m interested in New Technology
+- 🌱 I’m currently learning full stack web development(MERN Stack) and I am working in laravel
 - 💞️ I’m looking to collaborate on web technology
 - 📫 My facebook id link https://www.facebook.com/jahidhasan.shuvon
 
